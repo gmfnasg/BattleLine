@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\protypeGM.cs">
+    <Files>
+      <File FileName="Assets\scoreGuitext.cs" Line="1" Column="1" />
+      <File FileName="Assets\playerPopDeath.cs" Line="1" Column="1" />
+      <File FileName="Assets\reSetup.cs" Line="1" Column="1" />
+      <File FileName="Assets\playerPopHurt.cs" Line="1" Column="1" />
+      <File FileName="Assets\collisionlEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\enemyPop.cs" Line="1" Column="1" />
+      <File FileName="Assets\changColor.cs" Line="1" Column="1" />
+      <File FileName="Assets\creatEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\rootAnimet.cs" Line="1" Column="1" />
+      <File FileName="Assets\touchGuitextStart.cs" Line="1" Column="1" />
+      <File FileName="Assets\protypeGM.cs" Line="43" Column="23" />
+      <File FileName="Assets\mapLoop.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

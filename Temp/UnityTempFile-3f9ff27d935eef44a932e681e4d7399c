@@ -1,0 +1,67 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-define:UNITY_ANDROID
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_MONO
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_GENERICS
+-define:ENABLE_SUBSTANCE
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:UNITY_ANDROID_API
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:UNITY_4_3_3
+-define:UNITY_4_3
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+"Assets/Mic use/GetAveraged.cs"
+"Assets/Mic use/MicrophoneInput.cs"
+"Assets/Mic use/SpawnByLoudness.cs"
+"Assets/Mic use/micTest.cs"
+"Assets/Mic use/shoMicDev.cs"
+Assets/NumberTexture/showNumber.cs
+Assets/script/changColor.cs
+Assets/script/changScene.cs
+Assets/script/collisionlEnemy.cs
+Assets/script/continuousKill.cs
+Assets/script/creatEnemy.cs
+Assets/script/earthquakeEnemyShake.cs
+Assets/script/enemyPopRndSoliderType.cs
+Assets/script/gateHp.cs
+Assets/script/getMicrophoneInputVolume.cs
+Assets/script/gmOnGui.cs
+Assets/script/mapLoop.cs
+Assets/script/missionSetup.cs
+Assets/script/playerPopDeath.cs
+Assets/script/playerPopHurt.cs
+Assets/script/protypeGM.cs
+Assets/script/reSetup.cs
+Assets/script/rootAnimet.cs
+Assets/script/scoreGuitext.cs
+Assets/script/shakePhpne.cs
+Assets/script/textureOffset.cs
+Assets/script/touchGuitextStart.cs
+Assets/script/useSoundEnemySlowDown.cs
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll"
